@@ -1,0 +1,18 @@
+table {
+  background-color: #f8f6f7;
+}
+
+td {
+  padding: 7px;
+  margin: 7px;
+  text-align: center;
+  display: inline-block;
+  width: 13px;
+}
+.box {
+  border: 0px solid;
+  color: blue;
+  background-color: #e7e7e7;
+  font-weight: bold;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.4);
+}

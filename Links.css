@@ -1,0 +1,21 @@
+div span {
+  color: blue;
+}
+div span a {
+  color: orange;
+}
+div ul span ul li {
+  color: blue;
+}
+div span li a {
+  color: red;
+}
+div li span strong {
+  color: black;
+}
+div li span strong a {
+  color: red;
+}
+div ul span li {
+  color: black;
+}
